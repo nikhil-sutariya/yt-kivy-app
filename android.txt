@@ -1,0 +1,3 @@
+title=YT Download
+author=Nikhil Sutariya
+orientation=<portrait|landscape>
