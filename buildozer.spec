@@ -36,7 +36,7 @@ version = 0.1
 # version.filename = %(source.dir)s/main.py
 
 # (list) Application requirements
-requirements = python3,kivy,kivymd,yt-dlp,ffmpeg-python
+requirements = python3,kivy,kivymd,yt-dlp
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
